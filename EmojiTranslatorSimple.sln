@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleEmojiTranslatorSimpl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmojiTests", "EmojiTests\EmojiTests.csproj", "{559191EB-2D29-449B-814F-DF91686B2848}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppEmoji", "BlazorAppEmoji\BlazorAppEmoji.csproj", "{559191EB-2D29-449B-814F-DF91686B2848}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
