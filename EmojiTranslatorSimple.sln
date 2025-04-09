@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmojiTranslatorSimple", "EmojiTranslatorSimple\EmojiTranslatorSimple.csproj", "{950485A1-390A-4F0B-9D02-9302139AD7C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleEmojiTranslatorSimple", "ConsoleEmojiTranslatorSimple\ConsoleEmojiTranslatorSimple.csproj", "{8517E3C9-B0AE-425C-A426-8C03788868F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmojiTests", "EmojiTests\EmojiTests.csproj", "{559191EB-2D29-449B-814F-DF91686B2848}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{950485A1-390A-4F0B-9D02-9302139AD7C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{950485A1-390A-4F0B-9D02-9302139AD7C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{950485A1-390A-4F0B-9D02-9302139AD7C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{950485A1-390A-4F0B-9D02-9302139AD7C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8517E3C9-B0AE-425C-A426-8C03788868F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8517E3C9-B0AE-425C-A426-8C03788868F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8517E3C9-B0AE-425C-A426-8C03788868F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8517E3C9-B0AE-425C-A426-8C03788868F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{559191EB-2D29-449B-814F-DF91686B2848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{559191EB-2D29-449B-814F-DF91686B2848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{559191EB-2D29-449B-814F-DF91686B2848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{559191EB-2D29-449B-814F-DF91686B2848}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

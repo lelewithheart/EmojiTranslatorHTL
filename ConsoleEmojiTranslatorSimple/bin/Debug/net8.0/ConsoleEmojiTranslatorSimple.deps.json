@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsoleEmojiTranslatorSimple/1.0.0": {
+        "dependencies": {
+          "EmojiTranslatorSimple": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleEmojiTranslatorSimple.dll": {}
+        }
+      },
+      "EmojiTranslatorSimple/1.0.0": {
+        "runtime": {
+          "EmojiTranslatorSimple.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleEmojiTranslatorSimple/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmojiTranslatorSimple/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

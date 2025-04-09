@@ -1,0 +1,11 @@
+C:\Schule Julius\SEW3\MVC\EmojiTranslatorSimple\EmojiTranslatorSimple\bin\Debug\net8.0\EmojiTranslatorSimple.deps.json
+C:\Schule Julius\SEW3\MVC\EmojiTranslatorSimple\EmojiTranslatorSimple\bin\Debug\net8.0\EmojiTranslatorSimple.dll
+C:\Schule Julius\SEW3\MVC\EmojiTranslatorSimple\EmojiTranslatorSimple\bin\Debug\net8.0\EmojiTranslatorSimple.pdb
+C:\Schule Julius\SEW3\MVC\EmojiTranslatorSimple\EmojiTranslatorSimple\obj\Debug\net8.0\EmojiTranslatorSimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Schule Julius\SEW3\MVC\EmojiTranslatorSimple\EmojiTranslatorSimple\obj\Debug\net8.0\EmojiTranslatorSimple.AssemblyInfoInputs.cache
+C:\Schule Julius\SEW3\MVC\EmojiTranslatorSimple\EmojiTranslatorSimple\obj\Debug\net8.0\EmojiTranslatorSimple.AssemblyInfo.cs
+C:\Schule Julius\SEW3\MVC\EmojiTranslatorSimple\EmojiTranslatorSimple\obj\Debug\net8.0\EmojiTranslatorSimple.csproj.CoreCompileInputs.cache
+C:\Schule Julius\SEW3\MVC\EmojiTranslatorSimple\EmojiTranslatorSimple\obj\Debug\net8.0\EmojiTranslatorSimple.dll
+C:\Schule Julius\SEW3\MVC\EmojiTranslatorSimple\EmojiTranslatorSimple\obj\Debug\net8.0\refint\EmojiTranslatorSimple.dll
+C:\Schule Julius\SEW3\MVC\EmojiTranslatorSimple\EmojiTranslatorSimple\obj\Debug\net8.0\EmojiTranslatorSimple.pdb
+C:\Schule Julius\SEW3\MVC\EmojiTranslatorSimple\EmojiTranslatorSimple\obj\Debug\net8.0\ref\EmojiTranslatorSimple.dll
