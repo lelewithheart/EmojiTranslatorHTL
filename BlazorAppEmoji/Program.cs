@@ -1,3 +1,4 @@
+using BlazorAppEmoji;
 using BlazorAppEmoji.Components;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -22,5 +23,26 @@ app.UseAntiforgery();
 
 app.MapRazorComponents<App>()
     .AddInteractiveServerRenderMode();
+
+app.Run();
+
+// Blazor Bledsinn
+
+builder.Services.AddRazorPages();
+builder.Services.AddServerSideBlazor();
+builder.Services.AddSingleton<EmojiTranslatorService>(); // hinzugefügt
+
+app = builder.Build();
+
+if (!app.Environment.IsDevelopment())
+{
+    app.UseExceptionHandler("/Error");
+}
+
+app.UseStaticFiles();
+app.UseRouting();
+
+app.MapBlazorHub();
+app.MapFallbackToPage("/_Host");
 
 app.Run();

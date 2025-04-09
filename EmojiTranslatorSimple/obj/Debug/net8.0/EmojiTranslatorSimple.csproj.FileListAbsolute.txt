@@ -21,3 +21,15 @@ C:\Users\lelew\Documents\EmojiTranslatorSimple\EmojiTranslatorSimple\obj\Debug\n
 C:\Users\lelew\Documents\EmojiTranslatorSimple\EmojiTranslatorSimple\obj\Debug\net8.0\refint\EmojiTranslatorSimple.dll
 C:\Users\lelew\Documents\EmojiTranslatorSimple\EmojiTranslatorSimple\obj\Debug\net8.0\EmojiTranslatorSimple.pdb
 C:\Users\lelew\Documents\EmojiTranslatorSimple\EmojiTranslatorSimple\obj\Debug\net8.0\ref\EmojiTranslatorSimple.dll
+C:\Users\David\OneDrive - HTL Krems\Htlkrems 3AHIT\SEW BIRN\Uebung2KLStoff\EmojiTranslatorHTL\EmojiTranslatorSimple\bin\Debug\net8.0\EmojiTranslatorSimple.deps.json
+C:\Users\David\OneDrive - HTL Krems\Htlkrems 3AHIT\SEW BIRN\Uebung2KLStoff\EmojiTranslatorHTL\EmojiTranslatorSimple\bin\Debug\net8.0\EmojiTranslatorSimple.dll
+C:\Users\David\OneDrive - HTL Krems\Htlkrems 3AHIT\SEW BIRN\Uebung2KLStoff\EmojiTranslatorHTL\EmojiTranslatorSimple\bin\Debug\net8.0\EmojiTranslatorSimple.pdb
+C:\Users\David\OneDrive - HTL Krems\Htlkrems 3AHIT\SEW BIRN\Uebung2KLStoff\EmojiTranslatorHTL\EmojiTranslatorSimple\obj\Debug\net8.0\EmojiTranslatorSimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\OneDrive - HTL Krems\Htlkrems 3AHIT\SEW BIRN\Uebung2KLStoff\EmojiTranslatorHTL\EmojiTranslatorSimple\obj\Debug\net8.0\EmojiTranslatorSimple.AssemblyInfoInputs.cache
+C:\Users\David\OneDrive - HTL Krems\Htlkrems 3AHIT\SEW BIRN\Uebung2KLStoff\EmojiTranslatorHTL\EmojiTranslatorSimple\obj\Debug\net8.0\EmojiTranslatorSimple.AssemblyInfo.cs
+C:\Users\David\OneDrive - HTL Krems\Htlkrems 3AHIT\SEW BIRN\Uebung2KLStoff\EmojiTranslatorHTL\EmojiTranslatorSimple\obj\Debug\net8.0\EmojiTranslatorSimple.csproj.CoreCompileInputs.cache
+C:\Users\David\OneDrive - HTL Krems\Htlkrems 3AHIT\SEW BIRN\Uebung2KLStoff\EmojiTranslatorHTL\EmojiTranslatorSimple\obj\Debug\net8.0\EmojiTranslatorSimple.sourcelink.json
+C:\Users\David\OneDrive - HTL Krems\Htlkrems 3AHIT\SEW BIRN\Uebung2KLStoff\EmojiTranslatorHTL\EmojiTranslatorSimple\obj\Debug\net8.0\EmojiTranslatorSimple.dll
+C:\Users\David\OneDrive - HTL Krems\Htlkrems 3AHIT\SEW BIRN\Uebung2KLStoff\EmojiTranslatorHTL\EmojiTranslatorSimple\obj\Debug\net8.0\refint\EmojiTranslatorSimple.dll
+C:\Users\David\OneDrive - HTL Krems\Htlkrems 3AHIT\SEW BIRN\Uebung2KLStoff\EmojiTranslatorHTL\EmojiTranslatorSimple\obj\Debug\net8.0\EmojiTranslatorSimple.pdb
+C:\Users\David\OneDrive - HTL Krems\Htlkrems 3AHIT\SEW BIRN\Uebung2KLStoff\EmojiTranslatorHTL\EmojiTranslatorSimple\obj\Debug\net8.0\ref\EmojiTranslatorSimple.dll
