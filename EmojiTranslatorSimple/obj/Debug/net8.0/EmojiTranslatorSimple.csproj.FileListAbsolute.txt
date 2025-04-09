@@ -9,3 +9,15 @@ C:\Schule Julius\SEW3\MVC\EmojiTranslatorSimple\EmojiTranslatorSimple\obj\Debug\
 C:\Schule Julius\SEW3\MVC\EmojiTranslatorSimple\EmojiTranslatorSimple\obj\Debug\net8.0\refint\EmojiTranslatorSimple.dll
 C:\Schule Julius\SEW3\MVC\EmojiTranslatorSimple\EmojiTranslatorSimple\obj\Debug\net8.0\EmojiTranslatorSimple.pdb
 C:\Schule Julius\SEW3\MVC\EmojiTranslatorSimple\EmojiTranslatorSimple\obj\Debug\net8.0\ref\EmojiTranslatorSimple.dll
+C:\Users\lelew\Documents\EmojiTranslatorSimple\EmojiTranslatorSimple\bin\Debug\net8.0\EmojiTranslatorSimple.deps.json
+C:\Users\lelew\Documents\EmojiTranslatorSimple\EmojiTranslatorSimple\bin\Debug\net8.0\EmojiTranslatorSimple.dll
+C:\Users\lelew\Documents\EmojiTranslatorSimple\EmojiTranslatorSimple\bin\Debug\net8.0\EmojiTranslatorSimple.pdb
+C:\Users\lelew\Documents\EmojiTranslatorSimple\EmojiTranslatorSimple\obj\Debug\net8.0\EmojiTranslatorSimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lelew\Documents\EmojiTranslatorSimple\EmojiTranslatorSimple\obj\Debug\net8.0\EmojiTranslatorSimple.AssemblyInfoInputs.cache
+C:\Users\lelew\Documents\EmojiTranslatorSimple\EmojiTranslatorSimple\obj\Debug\net8.0\EmojiTranslatorSimple.AssemblyInfo.cs
+C:\Users\lelew\Documents\EmojiTranslatorSimple\EmojiTranslatorSimple\obj\Debug\net8.0\EmojiTranslatorSimple.csproj.CoreCompileInputs.cache
+C:\Users\lelew\Documents\EmojiTranslatorSimple\EmojiTranslatorSimple\obj\Debug\net8.0\EmojiTranslatorSimple.sourcelink.json
+C:\Users\lelew\Documents\EmojiTranslatorSimple\EmojiTranslatorSimple\obj\Debug\net8.0\EmojiTranslatorSimple.dll
+C:\Users\lelew\Documents\EmojiTranslatorSimple\EmojiTranslatorSimple\obj\Debug\net8.0\refint\EmojiTranslatorSimple.dll
+C:\Users\lelew\Documents\EmojiTranslatorSimple\EmojiTranslatorSimple\obj\Debug\net8.0\EmojiTranslatorSimple.pdb
+C:\Users\lelew\Documents\EmojiTranslatorSimple\EmojiTranslatorSimple\obj\Debug\net8.0\ref\EmojiTranslatorSimple.dll

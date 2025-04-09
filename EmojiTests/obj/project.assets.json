@@ -377,6 +377,16 @@
             "related": ".xml"
           }
         }
+      },
+      "EmojiTranslatorSimple/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/EmojiTranslatorSimple.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmojiTranslatorSimple.dll": {}
+        }
       }
     }
   },
@@ -970,10 +980,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "EmojiTranslatorSimple/1.0.0": {
+      "type": "project",
+      "path": "../EmojiTranslatorSimple/EmojiTranslatorSimple.csproj",
+      "msbuildProject": "../EmojiTranslatorSimple/EmojiTranslatorSimple.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "EmojiTranslatorSimple >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.8.0",
       "NUnit >= 3.14.0",
       "NUnit.Analyzers >= 3.9.0",
@@ -1005,7 +1021,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\lelew\\Documents\\EmojiTranslatorSimple\\EmojiTranslatorSimple\\EmojiTranslatorSimple.csproj": {
+              "projectPath": "C:\\Users\\lelew\\Documents\\EmojiTranslatorSimple\\EmojiTranslatorSimple\\EmojiTranslatorSimple.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
