@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmojiTranslatorSimple")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5beaa13a75efa020a1a1aa9deee6898efb9740d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d69f8cf3dd0d6eba20573a09abd76c14873e1adf")]
 [assembly: System.Reflection.AssemblyProductAttribute("EmojiTranslatorSimple")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmojiTranslatorSimple")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OcV5bpJTSw0=",
+  "dgSpecHash": "lVQ59civCfc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lelew\\Documents\\EmojiTranslatorSimple\\EmojiTranslatorSimple\\EmojiTranslatorSimple.csproj",
+  "projectFilePath": "C:\\Users\\lelew\\RiderProjects\\EmojiTranslatorHTL\\EmojiTranslatorSimple\\EmojiTranslatorSimple.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lelew\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.11\\microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
     "C:\\Users\\lelew\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.11\\microsoft.windowsdesktop.app.ref.8.0.11.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lelew\\Documents\\EmojiTranslatorSimple\\EmojiTranslatorSimple\\EmojiTranslatorSimple.csproj": {}
+    "C:\\Users\\lelew\\RiderProjects\\EmojiTranslatorHTL\\EmojiTranslatorSimple\\EmojiTranslatorSimple.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lelew\\Documents\\EmojiTranslatorSimple\\EmojiTranslatorSimple\\EmojiTranslatorSimple.csproj": {
+    "C:\\Users\\lelew\\RiderProjects\\EmojiTranslatorHTL\\EmojiTranslatorSimple\\EmojiTranslatorSimple.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lelew\\Documents\\EmojiTranslatorSimple\\EmojiTranslatorSimple\\EmojiTranslatorSimple.csproj",
+        "projectUniqueName": "C:\\Users\\lelew\\RiderProjects\\EmojiTranslatorHTL\\EmojiTranslatorSimple\\EmojiTranslatorSimple.csproj",
         "projectName": "EmojiTranslatorSimple",
-        "projectPath": "C:\\Users\\lelew\\Documents\\EmojiTranslatorSimple\\EmojiTranslatorSimple\\EmojiTranslatorSimple.csproj",
+        "projectPath": "C:\\Users\\lelew\\RiderProjects\\EmojiTranslatorHTL\\EmojiTranslatorSimple\\EmojiTranslatorSimple.csproj",
         "packagesPath": "C:\\Users\\lelew\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lelew\\Documents\\EmojiTranslatorSimple\\EmojiTranslatorSimple\\obj\\",
+        "outputPath": "C:\\Users\\lelew\\RiderProjects\\EmojiTranslatorHTL\\EmojiTranslatorSimple\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lelew\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ANlgRlrnOXk=",
+  "dgSpecHash": "/MPahadBKmo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lelew\\Documents\\EmojiTranslatorSimple\\EmojiTests\\EmojiTests.csproj",
+  "projectFilePath": "C:\\Users\\lelew\\RiderProjects\\EmojiTranslatorHTL\\EmojiTests\\EmojiTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lelew\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\lelew\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
